@@ -111,6 +111,12 @@ body {
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.btn-voltar:hover {
+    opacity: 0.7;
 }
 
 /* criar conta */
@@ -123,6 +129,12 @@ body {
     border: none;
     border-radius: 20px;
     cursor: pointer;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.btn-criar:hover {
+    opacity: 0.7;
 }
 
 /* responsividade */

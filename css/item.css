@@ -1,0 +1,234 @@
+    /* Fundo */
+body {
+    margin: 0;
+    padding: 0;
+    background: #16161D;
+    font-family: Roboto, sans-serif;
+    color: #FFF;
+}
+
+/* Topo */
+.topo {
+    width: 100%;
+    height: 75px;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 235px;
+    height: 48px;
+}
+
+.barra-titulo {
+    width: 500px;
+    height: 40px;
+    background: #FFF;
+    color: #808080;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: -1px;
+}
+
+.perfil-topo {
+    width: 45px;
+    height: 45px;
+    background: #D9D9D9;
+    border-radius: 50%;
+}
+
+/* Conteúdo */
+.area-central {
+    width: 900px;
+    min-height: 1000px;
+    background: #2D303C;
+    margin: 40px auto;
+    border-left: 3px solid #686868;
+    border-right: 3px solid #686868;
+    padding: 40px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+/* Nome da música */
+.titulo-item {
+    font-family: Montserrat, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 30px;
+    letter-spacing: -2px;
+}
+
+/* Parte superior com imagem e info */
+.parte-superior {
+    display: flex;
+    gap: 40px;
+}
+
+/* Quadrado branco */
+.img-grande {
+    width: 300px;
+    height: 300px;
+    background: #D9D9D9;
+    border-radius: 40px;
+    border: 3px solid #787878;
+}
+
+/* Box escuro */
+.info-box {
+    width: 434px;
+    height: 256px;
+    background: #16161D;
+    border: 2px solid #787878;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Linha */
+.linha-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Labels */
+.info-label {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* Valores */
+.info-valor {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+/* Linha separadora */
+.linha {
+    width: 852px;
+    height: 5px;
+    background: #282B37;
+    margin: 40px auto;
+}
+
+/* Título Avaliações */
+.avaliacoes-titulo {
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -1.8px;
+    margin-bottom: 30px;
+}
+
+/* Posts */
+
+
+.post {
+    width: 800px;
+    background: #16161D;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.barra-superior {
+    height: 36px;
+    background: #212436;
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    gap: 10px;
+}
+
+.perfil-post {
+    width: 25px;
+    height: 25px;
+    background: #D9D9D9;
+    border-radius: 50%;
+}
+
+.avaliacao,
+.user {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.user {
+    color: #00ACEA;
+}
+
+.tempo {
+    font-size: 16px;
+    color: #787878;
+}
+
+.icones {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.conteudo {
+    display: flex;
+    padding: 10px 20px;
+    gap: 15px;
+}
+
+.capa-musica {
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+    background: #00EA1B;
+}
+
+.estrelas {
+    font-size: 20px;
+    color: #DEBD00;
+}
+
+.titulo {
+    margin: 0;
+    margin-top: 5px;
+}
+
+.banda {
+    margin: 0;
+    color: #AAA;
+}
+
+.avaliacao-texto {
+    margin-top: 10px;
+}
+
+/* Responsividade */
+@media (max-width: 950px) {
+    .area-central {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .parte-superior {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info-box {
+        width: 90%;
+    }
+
+    .post {
+        width: 100%;
+    }
+}

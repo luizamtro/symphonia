@@ -109,6 +109,12 @@ body {
     color: #333;
     font-weight: 700;
     cursor: pointer;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.btn-voltar:hover {
+    opacity: 0.7;
 }
 
 /* botão "Entrar" */
@@ -121,7 +127,15 @@ body {
     color: #FFF;
     font-weight: 700;
     cursor: pointer;
+    opacity: 1;
+    transition: opacity 0.3s ease;
 }
+
+.btn-entrar:hover {
+    opacity: 0.7;
+}
+
+
 
 /* responsividade */
 @media (max-width: 700px) {
