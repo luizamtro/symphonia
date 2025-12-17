@@ -90,15 +90,16 @@ Este projeto está sendo desenvolvido com fins **acadêmicos**, aplicando concei
 </div>
 <br>
 
+
 <br>
-<a href = "https://github.com/PEDRO">Pedro Henrique Barbosa</a>
+<a href = "https://github.com/GUSTAVO">Gustavo Fontenele</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
 </div>
 <br>
 
 <br>
-<a href = "https://github.com/GUSTAVO">Gustavo Fontenele</a>
+<a href = "https://github.com/PEDRO">Pedro Henrique Barbosa</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
 </div>
