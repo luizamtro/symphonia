@@ -113,7 +113,7 @@ Este projeto está sendo desenvolvido com fins **acadêmicos**, aplicando concei
 <br>
 
 <br>
-<a href = "https://github.com/Riquemy77">Riquelmy Ricarte</a>
+<a href = "https://github.com/Riquelmy77">Riquelmy Ricarte</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159535993?v=4"/>
 </div>
