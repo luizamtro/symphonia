@@ -99,7 +99,7 @@ Este projeto está sendo desenvolvido com fins **acadêmicos**, aplicando concei
 <br>
 
 <br>
-<a href = "https://github.com/PedroBarbosaIF?tab=followers">Pedro Henrique Barbosa</a>
+<a href = "https://github.com/PedroBarbosaIF">Pedro Henrique Barbosa</a>
 <div>
  <img height="200" src="https://avatars.githubusercontent.com/u/159566197?v=4"/>
 </div>
