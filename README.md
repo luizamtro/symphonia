@@ -92,29 +92,29 @@ Este projeto está sendo desenvolvido com fins **acadêmicos**, aplicando concei
 
 
 <br>
-<a href = "https://github.com/GUSTAVO">Gustavo Fontenele</a>
+<a href = "https://github.com/fontenelegustavo">Gustavo Fontenele</a>
 <div>
- <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/162038257?v=4"/>
 </div>
 <br>
 
 <br>
-<a href = "https://github.com/PEDRO">Pedro Henrique Barbosa</a>
+<a href = "https://github.com/PedroBarbosaIF?tab=followers">Pedro Henrique Barbosa</a>
 <div>
- <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159566197?v=4"/>
 </div>
 <br>
 
 <br>
-<a href = "https://github.com/MATEHIS">Matheus Tabosa</a>
+<a href = "https://github.com/matheusct27">Matheus Tabosa</a>
 <div>
- <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/41300255?v=4"/>
 </div>
 <br>
 
 <br>
-<a href = "https://github.com/RIQUELMY">Riquelmy Ricarte</a>
+<a href = "https://github.com/Riquemy77">Riquelmy Ricarte</a>
 <div>
- <img height="200" src="https://avatars.githubusercontent.com/u/159566275?v=4"/>
+ <img height="200" src="https://avatars.githubusercontent.com/u/159535993?v=4"/>
 </div>
 <br>
